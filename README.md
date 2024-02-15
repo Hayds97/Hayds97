@@ -43,6 +43,7 @@
   <span><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh0eWx0bzRsbzltdWttMGtnczN0YXRrOGxuN3pkY2tzcnUxNGZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elQ5RkAm90DZpirhRg/giphy.gif" width=33% /></span>
 </div>
 <br>
+<hr>
 
 ### :man_technologist: About Me :
 
@@ -57,6 +58,25 @@ I am an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - :zap: In my free time, I'm either listening to music, coding or reading 🤓
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hayden-scott-19088059)
+
+<hr>
+
+### :hammer_and_wrench: Current Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="HTML5" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-plain.svg"  title="WordPress" **alt="WordPress" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="VSC" **alt="VSC" width="40" height="40"/>&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
+            <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg" title="Eclipse" **alt="Eclipse" width="40" height="40"/>&nbsp;
+              <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+                <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+                
+                    
+</div>
 
 <!--
 **Hayds97/Hayds97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
