@@ -59,7 +59,7 @@ I'm an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, I'm either listening to music, coding or reading 🤓
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hayden-scott-19088059)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hayden-scott-19088059)
   
 
 
