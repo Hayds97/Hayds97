@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media3.giphy.com/media/14mSCGEeuqF0Kig8vo/200.webp?cid=790b76114yk84ypu5xsnruwazic8zdte31r2bhkp3xjfq0jb&ep=v1_stickers_search&rid=200.webp&ct=s" width="100"/>
+</div>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJoY3UzbXI1bWV2NGdmdm9vNXYxZzE5b241c2F4Z3dib3RoY2dyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/>
 </div>
