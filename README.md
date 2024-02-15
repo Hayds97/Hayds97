@@ -52,11 +52,11 @@ I am an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 - :telescope: I’m working towards an undergraduate degree in Computing and IT (Software Engineering).
 
-- :seedling: Exploring all things code and tech!
+- 🖥️ Exploring all things code and tech!
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I'm either listening to music, coding or reading 🤓
 
-- :mailbox:How to reach me:
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hayden-scott-19088059)
 
 <!--
 **Hayds97/Hayds97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
