@@ -49,7 +49,7 @@
 
 
 
-I am an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+I'm an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 - :telescope: I’m working towards an undergraduate degree in Computing and IT (Software Engineering).
 
