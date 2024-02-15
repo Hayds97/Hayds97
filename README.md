@@ -18,19 +18,21 @@
 </h1>
 <div align="center">
 <strong>
-  My Hobbies...
+  
+###  My Hobbies...
+
 </strong>
 </div>
 <table align="center" width="100%">
 <tr>
 <td valign="top" width="33%">
-<h2 align="center">I Love Plants</h2>
+<h2 align="center"> House Plants</h2>
 </td>
 <td valign="top" width="33%">
 <h1 align="center">&</h1>
 </td>
 <td valign="top" width="33%">
-<h2 align="center">I Love Hard Techno</h2>
+<h2 align="center">Hard Techno</h2>
 </td>
 </tr>
 </table>
@@ -40,6 +42,21 @@
   <span><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ4aHQzdndxcG5vbnY0OWllMWZud25ia3F2d3cwbGEzdTl0YTQyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EtgTxOJPz1ATHIkbrP/giphy.gif" width=33% /></span>
   <span><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh0eWx0bzRsbzltdWttMGtnczN0YXRrOGxuN3pkY2tzcnUxNGZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elQ5RkAm90DZpirhRg/giphy.gif" width=33% /></span>
 </div>
+<br>
+
+### :man_technologist: About Me :
+
+
+
+I am an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+
+- :telescope: I’m working towards an undergraduate degree in Computing and IT (Software Engineering).
+
+- :seedling: Exploring all things code and tech!
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me:
 
 <!--
 **Hayds97/Hayds97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
