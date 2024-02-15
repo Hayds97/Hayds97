@@ -16,7 +16,11 @@
   hey there
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Eyd3VqeXBiYXFxdzlmZGU1dHVuemd2aG9tbHlwbGkxb3B0YW41bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XjkOiGxmg05CadXpRf/giphy.gif" width="120px"/>
 </h1>
-
+<div align="center">
+<strong>
+  My Hobbies...
+</strong>
+</div>
 <table align="center" width="100%">
 <tr>
 <td valign="top" width="33%">
