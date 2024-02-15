@@ -12,6 +12,11 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Hayds97&style=flat-square&color=blue" alt=""/>
 </div>
+<h1>
+  hey there
+  <img src="https://media2.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.webp?cid=ecf05e471ev8cuf3sihap76dlv6oxvrcd2n2tojvi1e6c1gk&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="120px"/>
+</h1>
+
 <!--
 **Hayds97/Hayds97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
